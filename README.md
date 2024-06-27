@@ -73,6 +73,15 @@ This repository contains a collection of books related to data science. These bo
 - probability.pdf
 - python_for_exploratory_data_analysis.pdf
 - storytelling-with-data-cole-nussbaumer-knaflic.pdf
+- kahneman_pensar.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-1.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-2.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-3.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-4.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-5.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-6.pdf 
+- ORG-ES-_-DDDM-Data-Driven-2024-Lectura-Previa-7.pdf 
+- ORG-ES-Frameworks-para-decidir.pdf
 
 ## Usage
 
